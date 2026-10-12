@@ -1,0 +1,6 @@
+{
+  "name": "Qatar Shop Manager",
+  "description": "Comprehensive business management system for Qatar online shops featuring multi-role portals (Admin, Order Entry, Driver), inventory, order workflow, profit calculation, and invoice printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
